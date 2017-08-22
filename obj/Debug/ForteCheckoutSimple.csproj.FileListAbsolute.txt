@@ -1,0 +1,10 @@
+C:\Users\anoel\Downloads\Desktop\prototypeproj\ForteCheckoutSimple\ForteCheckoutSimple\bin\ForteCheckoutSimple.dll
+C:\Users\anoel\Downloads\Desktop\prototypeproj\ForteCheckoutSimple\ForteCheckoutSimple\bin\ForteCheckoutSimple.pdb
+C:\Users\anoel\Downloads\Desktop\prototypeproj\ForteCheckoutSimple\ForteCheckoutSimple\obj\Debug\ForteCheckoutSimple.csprojResolveAssemblyReference.cache
+C:\Users\anoel\Downloads\Desktop\prototypeproj\ForteCheckoutSimple\ForteCheckoutSimple\obj\Debug\ForteCheckoutSimple.dll
+C:\Users\anoel\Downloads\Desktop\prototypeproj\ForteCheckoutSimple\ForteCheckoutSimple\obj\Debug\ForteCheckoutSimple.pdb
+C:\Users\anoel\Downloads\Desktop\Projects\Public\fortecheckoutcsharp\bin\ForteCheckoutSimple.dll
+C:\Users\anoel\Downloads\Desktop\Projects\Public\fortecheckoutcsharp\bin\ForteCheckoutSimple.pdb
+C:\Users\anoel\Downloads\Desktop\Projects\Public\fortecheckoutcsharp\obj\Debug\ForteCheckoutSimple.csprojResolveAssemblyReference.cache
+C:\Users\anoel\Downloads\Desktop\Projects\Public\fortecheckoutcsharp\obj\Debug\ForteCheckoutSimple.dll
+C:\Users\anoel\Downloads\Desktop\Projects\Public\fortecheckoutcsharp\obj\Debug\ForteCheckoutSimple.pdb
